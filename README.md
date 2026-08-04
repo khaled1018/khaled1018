@@ -2,7 +2,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=khaled1018&label=Profile%20views&color=0e75b6&style=flat" alt="khaled1018" /> 
 </p>
-👋 Hey there! I'm Khaled<br><br>🔭 I’m currently learning Full-Stack Development with React and Spring Boot to build scalable web applications.<br><br>👯 I’m looking to collaborate on full-stack projects and open-source contributions.<br><br>🤝 I’m looking for help with backend optimization and React best practices.<br><br>🌱 Currently diving deeper into React, Spring Boot, and database management.<br><br>💬 Feel free to ask me anything related to computer science, Android development, backend (Spring Boot), and React development.<br><br>⚡ Fun fact: My first app was a simple calculator, and now I’m building full-stack applications!
+👋 Hey there! I'm Khaled<br><br>🔭 I’m currently learning Backend Development with Java and Spring Boot to build scalable web applications.<br><br>👯 I’m looking to collaborate on full-stack projects and open-source contributions.<br><br>🤝 I’m looking for help with backend optimization and React best practices.<br><br>🌱 Currently diving deeper into React, Spring Boot, and database management.<br><br>💬 Feel free to ask me anything related to computer science, Android development, backend (Spring Boot), and React development.<br><br>⚡ Fun fact: My first app was a simple calculator, and now I’m building full-stack applications!
 
 
 ## 🌐 Socials:
